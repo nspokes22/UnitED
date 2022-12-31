@@ -1,0 +1,4 @@
+background = R: 243 G: 130 B: 111
+border = R: 192 G: 92 B: 126
+buttons = R: 255 G: 185 B: 97
+letters = R: 0 G: 0 B: 0
